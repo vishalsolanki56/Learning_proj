@@ -1,3 +1,4 @@
 Hello I am new_branch
+Hello .. I am master
 We're learning Git. Let's start.
 Changes by New_branch
