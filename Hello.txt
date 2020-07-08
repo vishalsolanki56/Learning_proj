@@ -1,2 +1,2 @@
 Hello
-We're learning Git.
+We're learning Git. Let's start.
